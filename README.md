@@ -12,3 +12,7 @@ ______________________________________SETUP_____________________________________
 3.) Run The Code run.py.
 4.) Open any browser and click the following link "http://127.0.0.1:5000/"
 5.) You can see the homepage of our language translator
+
+
+
+Developed by : Anirudh.R and Anirudh.K
